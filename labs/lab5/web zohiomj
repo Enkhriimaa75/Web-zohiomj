@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>An Unordered HTML List</h2>
+
+<ul>
+  <li>Alim</li>
+  <li>Cola</li>
+  <li>Banana</li>
+</ul>  
+<ul>
+    <li>1</li>
+    <li>kitty</li>
+    <li>lala</li>
+  </ul>  
+
+<h2>An Ordered HTML List</h2>
+
+<ol type="i"> //
+  <li>Alim</li>
+  <li>Luuvan</li>
+  <li>Banana</li>
+  <li>Chiiden</li>
+  <li>Bank</li>
+</ol> 
+
+</body>
+</html>
+
